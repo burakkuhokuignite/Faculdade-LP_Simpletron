@@ -1,0 +1,5 @@
+- opcao se quer gerar codigo otimizado ou nao
+- quando clicar em compilar exibir msg "compilado com sucesso"
+- se compilou com sucesso exibir uma janela com a tabela de símbolos
+- exibir outra janela com o código SML gerado(com a opção salvar como onde digita o nome do arquivo e salva no disco).
+
